@@ -1,9 +1,8 @@
 # Garrett Baltz
-grbaltz@berkeley.edu
-7076400238
-Berkeley, CA
-
-[Resume_Tech_6_3_24.pdf](https://github.com/user-attachments/files/16397441/Resume_Tech_6_3_24.pdf)
+- grbaltz@berkeley.edu
+- 7076400238
+- Berkeley, CA
+- [Resume_Tech_6_3_24.pdf](https://github.com/user-attachments/files/16397441/Resume_Tech_6_3_24.pdf)
 
 
 My name's Garrett Baltz, I am a Berkeley-based Computer Science graduate from the University of California at Berkeley in 2024. Alongside my involvement in web development, I actively pursue hobbies such as french horn performance, jazz trumpet, and a career in Bartending. 
