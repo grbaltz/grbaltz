@@ -1,4 +1,7 @@
 # Garrett Baltz
+grbaltz@berkeley.edu
+7076400238
+Berkeley, CA
 
 [Resume_Tech_6_3_24.pdf](https://github.com/user-attachments/files/16397441/Resume_Tech_6_3_24.pdf)
 
