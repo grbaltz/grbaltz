@@ -10,9 +10,9 @@ Heyo, my name's Garrett Baltz and Computer Science graduate from the University 
 As an aspiring Software Engineer, I am currently developing a portfolio of projects to showcase my capabilities, particularly in web development, alongside expanding upon my real-world experience. Currently, I am prioritizing honing my fullstack capabilities through a few web applications (see LMNT) and hope to work in web development.
 
 ## Completed Projects
-While I am still flushing out the breakdowns of each repository from my time at UC Berkeley, I have amassed a large amount of projects ranging from Git recreations, the Enigma machine, to Neural Networks. At the moment, I have only finished detailing my projects from CS188 - Intro to Machine Learning
+While I am still flushing out the breakdowns of each repository from my time at UC Berkeley, I have amassed a large amount of projects ranging from Git recreations, the Enigma machine, to Neural Networks. At the moment, I have only finished detailing my projects from CS188 - Intro to Artificial Intelligence
 
-- [CS188 - Intro to Machine Learning](https://github.com/grbaltz/cs188-sp23): Detailing the progression of my AI Pac-Man solver, CS188 consisted of 6 projects designed to slowly increase my comprehension of Machine Learning topics while building upon previous topics to evenutally culminate in an efficient, albeit simple, neural network to quickly and successfully complete Pac-Man.
+- [CS188 - Intro to Artificial Intelligence](https://github.com/grbaltz/cs188-sp23): Detailing the progression of my AI Pac-Man solver, CS188 consisted of 6 projects designed to slowly increase my comprehension of Artificial Intelligence topics while building upon previous topics to evenutally culminate in an efficient, albeit succinct, solver to quickly and successfully complete Pac-Man.
 
 ## Current Projects
 
