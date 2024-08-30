@@ -5,7 +5,7 @@
 - [Resume](https://github.com/user-attachments/files/16397489/Resume_Tech_7_26_24.pdf)
 
 
-Heyo, my name's Garrett Baltz and Computer Science graduate from the University of California at Berkeley in 2024. Alongside my involvement in web development, I actively pursue hobbies such as french horn performance, jazz trumpet, and a career in Bartending. 
+Heyo, my name's Garrett Baltz and I'm a Computer Science graduate from the University of California at Berkeley. Alongside my involvement in web development, I actively pursue hobbies such as french horn performance, jazz trumpet, and a career in Bartending. 
 
 As an aspiring Software Engineer, I am currently developing a portfolio of projects to showcase my capabilities, particularly in web development, alongside expanding upon my real-world experience. Currently, I am prioritizing honing my fullstack capabilities through a few web applications (see LMNT) and hope to work in web development.
 
